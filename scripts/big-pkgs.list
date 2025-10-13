@@ -26,3 +26,4 @@ wasi-libc
 wasmer
 zig
 ghc
+openjdk-21
